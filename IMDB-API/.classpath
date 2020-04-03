@@ -2,5 +2,44 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/jsoup-1.12.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/WebsiteCrawler/lib/jsoup-1.12.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpclient5-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpclient5-cache-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpclient5-fluent-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpclient5-testing-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpclient5-win-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpcore5-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpcore5-h2-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpcore5-reactive-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/httpcore5-testing-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/jna-5.2.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/jna-platform-5.2.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/rxjava-2.2.8.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-client-5.0/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-core-5.0/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-core-5.0/lib/httpcore5-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-core-5.0/lib/httpcore5-h2-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-core-5.0/lib/httpcore5-reactive-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-core-5.0/lib/httpcore5-testing-5.0.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-core-5.0/lib/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-core-5.0/lib/rxjava-2.2.8.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/httpcomponents-core-5.0/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="/WebsiteCrawler/lib/commons-io-2.6/commons-io-2.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/WebsiteCrawler/lib/commons-io-2.6/commons-io-2.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Netflix/lib/json-20190722.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
